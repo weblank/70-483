@@ -5,9 +5,9 @@ Projeto open com o objetivo de compartilhar conhecimentos específicos dos exame
 Quer entender mais sobre o roadmap ? [leiamais](https://medium.com/@carloshoribeiro/passo-a-passo-miss%C3%A3o-mcsd-6a09956ef817)
 
 
-**Fontes dos conteúdos publicados neste repositório** 
-[programming in C# Exam Ref 70-483] (https://github.com/harryi3t/PDFs/blob/master/Exam%20Ref%2070-483%20Programming%20in%20C%23%2C%20Wouter%20de%20Kort%2C%20O%C2%B4Reilly%2C%202013.pdf) 
-[Documentação oficial da Microsoft] (https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
+**Fontes dos conteúdos publicados neste repositório**    
+[programming in C# Exam Ref 70-483](https://github.com/harryi3t/PDFs/blob/master/Exam%20Ref%2070-483%20Programming%20in%20C%23%2C%20Wouter%20de%20Kort%2C%20O%C2%B4Reilly%2C%202013.pdf)    
+[Documentação oficial da Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)    
 
 ## Começando
 
