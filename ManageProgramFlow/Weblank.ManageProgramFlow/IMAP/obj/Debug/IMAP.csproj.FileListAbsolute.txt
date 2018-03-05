@@ -5,3 +5,10 @@ C:\Users\carlos.ribeiro.DEVPARTNER-BR\Source\Repos\Weblank.ManageProgramFlow\IMA
 C:\Users\carlos.ribeiro.DEVPARTNER-BR\Source\Repos\Weblank.ManageProgramFlow\IMAP\obj\Debug\IMAP.csproj.CoreCompileInputs.cache
 C:\Users\carlos.ribeiro.DEVPARTNER-BR\Source\Repos\Weblank.ManageProgramFlow\IMAP\obj\Debug\IMAP.exe
 C:\Users\carlos.ribeiro.DEVPARTNER-BR\Source\Repos\Weblank.ManageProgramFlow\IMAP\obj\Debug\IMAP.pdb
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\bin\Debug\IMAP.exe.config
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\bin\Debug\IMAP.exe
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\bin\Debug\IMAP.pdb
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\obj\Debug\IMAP.csprojResolveAssemblyReference.cache
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\obj\Debug\IMAP.csproj.CoreCompileInputs.cache
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\obj\Debug\IMAP.exe
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\obj\Debug\IMAP.pdb
