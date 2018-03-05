@@ -6,7 +6,7 @@ Quer entender mais sobre o roadmap ? [leiamais](https://medium.com/@carloshoribe
 
 
 **Fontes dos conteúdos publicados neste repositório**    
-[programming in C# Exam Ref 70-483](https://github.com/harryi3t/PDFs/blob/master/Exam%20Ref%2070-483%20Programming%20in%20C%23%2C%20Wouter%20de%20Kort%2C%20O%C2%B4Reilly%2C%202013.pdf)    
+[Programming in C# Exam Ref 70-483](https://github.com/harryi3t/PDFs/blob/master/Exam%20Ref%2070-483%20Programming%20in%20C%23%2C%20Wouter%20de%20Kort%2C%20O%C2%B4Reilly%2C%202013.pdf)    
 [Documentação oficial da Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)    
 
 ## Começando
