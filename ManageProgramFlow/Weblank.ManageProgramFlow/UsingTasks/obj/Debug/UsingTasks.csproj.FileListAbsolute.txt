@@ -1,0 +1,7 @@
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingTasks\bin\Debug\UsingTasks.exe.config
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingTasks\bin\Debug\UsingTasks.exe
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingTasks\bin\Debug\UsingTasks.pdb
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingTasks\obj\Debug\UsingTasks.csprojResolveAssemblyReference.cache
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingTasks\obj\Debug\UsingTasks.csproj.CoreCompileInputs.cache
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingTasks\obj\Debug\UsingTasks.exe
+C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingTasks\obj\Debug\UsingTasks.pdb

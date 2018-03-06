@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace IMAP
+namespace UnderstandingThreads
 {
     public class ThreadClass
     {

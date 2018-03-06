@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMAP", "IMAP\Objective-1.1.csproj", "{5EC39465-E16A-48BE-8669-AD5E5FDE16C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingThreads", "IMAP\UnderstandingThreads.csproj", "{5EC39465-E16A-48BE-8669-AD5E5FDE16C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTasks", "UsingTasks\UsingTasks.csproj", "{CA6CFF65-49AF-4E57-9A77-EC2B620247FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5EC39465-E16A-48BE-8669-AD5E5FDE16C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EC39465-E16A-48BE-8669-AD5E5FDE16C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EC39465-E16A-48BE-8669-AD5E5FDE16C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6CFF65-49AF-4E57-9A77-EC2B620247FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6CFF65-49AF-4E57-9A77-EC2B620247FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6CFF65-49AF-4E57-9A77-EC2B620247FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6CFF65-49AF-4E57-9A77-EC2B620247FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

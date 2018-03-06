@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace IMAP
+namespace UnderstandingThreads
 {
     //     CHAPTER 1: MANAGE PROGRAM FLOW
     // OBJECTIVE 1.1: IMPLEMENT MULTITHREADING AND ASYNCHRONOUS PROCESSING CHAPTER 1
