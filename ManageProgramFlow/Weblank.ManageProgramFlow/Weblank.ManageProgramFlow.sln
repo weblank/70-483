@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMAP", "IMAP\IMAP.csproj", "{5EC39465-E16A-48BE-8669-AD5E5FDE16C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMAP", "IMAP\Objective-1.1.csproj", "{5EC39465-E16A-48BE-8669-AD5E5FDE16C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
