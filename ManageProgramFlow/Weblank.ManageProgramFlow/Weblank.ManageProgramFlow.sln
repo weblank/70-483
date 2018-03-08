@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingThreads", "IMAP\UnderstandingThreads.csproj", "{5EC39465-E16A-48BE-8669-AD5E5FDE16C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.UnderstandingThreads", "IMAP\1.UnderstandingThreads.csproj", "{5EC39465-E16A-48BE-8669-AD5E5FDE16C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTasks", "UsingTasks\UsingTasks.csproj", "{CA6CFF65-49AF-4E57-9A77-EC2B620247FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.UsingTasks", "UsingTasks\2.UsingTasks.csproj", "{CA6CFF65-49AF-4E57-9A77-EC2B620247FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.UsingParallelClass", "UsingParallelClass\3.UsingParallelClass.csproj", "{F84BB31F-0477-4A44-AF46-3A9E3E47CE5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.UsingAsyncAwait", "UsingAsyncAwait\4.UsingAsyncAwait.csproj", "{948390A5-8C36-4D5D-BFDB-C3C12E24B207}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{CA6CFF65-49AF-4E57-9A77-EC2B620247FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA6CFF65-49AF-4E57-9A77-EC2B620247FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA6CFF65-49AF-4E57-9A77-EC2B620247FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84BB31F-0477-4A44-AF46-3A9E3E47CE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84BB31F-0477-4A44-AF46-3A9E3E47CE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84BB31F-0477-4A44-AF46-3A9E3E47CE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84BB31F-0477-4A44-AF46-3A9E3E47CE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948390A5-8C36-4D5D-BFDB-C3C12E24B207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948390A5-8C36-4D5D-BFDB-C3C12E24B207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948390A5-8C36-4D5D-BFDB-C3C12E24B207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948390A5-8C36-4D5D-BFDB-C3C12E24B207}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
