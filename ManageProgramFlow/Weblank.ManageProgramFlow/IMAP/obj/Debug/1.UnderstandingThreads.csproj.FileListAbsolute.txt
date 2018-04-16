@@ -1,0 +1,7 @@
+F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\bin\Debug\IMAP.exe.config
+F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\bin\Debug\IMAP.exe
+F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\bin\Debug\IMAP.pdb
+F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\obj\Debug\1.UnderstandingThreads.csprojResolveAssemblyReference.cache
+F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\obj\Debug\1.UnderstandingThreads.csproj.CoreCompileInputs.cache
+F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\obj\Debug\IMAP.exe
+F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\IMAP\obj\Debug\IMAP.pdb

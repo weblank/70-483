@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.UsingParallelClass", "Usi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.UsingAsyncAwait", "UsingAsyncAwait\4.UsingAsyncAwait.csproj", "{948390A5-8C36-4D5D-BFDB-C3C12E24B207}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.UsingPLINQ", "UsingPLINQ\5.UsingPLINQ.csproj", "{E3F7AE6C-EEB2-4470-916B-6792F7F6F228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingConcurrentCollections", "UsingConcurrentCollections\UsingConcurrentCollections.csproj", "{07AC71B3-4BC5-43F1-8DF1-799A5F5B7EFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{948390A5-8C36-4D5D-BFDB-C3C12E24B207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{948390A5-8C36-4D5D-BFDB-C3C12E24B207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{948390A5-8C36-4D5D-BFDB-C3C12E24B207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F7AE6C-EEB2-4470-916B-6792F7F6F228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F7AE6C-EEB2-4470-916B-6792F7F6F228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F7AE6C-EEB2-4470-916B-6792F7F6F228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F7AE6C-EEB2-4470-916B-6792F7F6F228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AC71B3-4BC5-43F1-8DF1-799A5F5B7EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AC71B3-4BC5-43F1-8DF1-799A5F5B7EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AC71B3-4BC5-43F1-8DF1-799A5F5B7EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AC71B3-4BC5-43F1-8DF1-799A5F5B7EFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
