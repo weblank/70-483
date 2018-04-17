@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.UsingAsyncAwait", "UsingA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.UsingPLINQ", "UsingPLINQ\5.UsingPLINQ.csproj", "{E3F7AE6C-EEB2-4470-916B-6792F7F6F228}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingConcurrentCollections", "UsingConcurrentCollections\UsingConcurrentCollections.csproj", "{07AC71B3-4BC5-43F1-8DF1-799A5F5B7EFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.UsingConcurrentCollections", "UsingConcurrentCollections\6.UsingConcurrentCollections.csproj", "{07AC71B3-4BC5-43F1-8DF1-799A5F5B7EFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

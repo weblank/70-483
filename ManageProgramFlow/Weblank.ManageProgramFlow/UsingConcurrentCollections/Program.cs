@@ -47,7 +47,17 @@ namespace UsingConcurrentCollections
 
             // Listing 1.32 - Using ConcurrentStack 
             #region Listing 1.32
-            var main = new MainListing1X32();
+            //var main = new MainListing1X32();
+            #endregion
+
+            // Listing 1.33 - Using a Concurrent Queue 
+            #region Listing 1.33
+            //var main = new MainListing1X33();
+            #endregion
+
+            // Listing 1.34 - Using a Concurrent Dictionary 
+            #region Listing 1.34
+            var main = new MainListing1X34();
             #endregion
         }
     }
