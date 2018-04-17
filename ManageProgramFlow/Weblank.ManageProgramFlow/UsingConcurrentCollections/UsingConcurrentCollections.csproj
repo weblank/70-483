@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Listing\MainListing1X32.cs" />
+    <Compile Include="Listing\MainListing1X31.cs" />
+    <Compile Include="Listing\MainListing1X30.cs" />
+    <Compile Include="Listing\MainListing1X29.cs" />
     <Compile Include="Listing\MainListing1X28.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
