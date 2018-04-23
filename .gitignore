@@ -10,16 +10,16 @@
 *.sln.docstates
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
+**/[Dd]ebug/
+**/[Dd]ebugPublic/
+**/[Rr]elease/
+**/[Rr]eleases/
+**/x64/
+**/x86/
+**/bld/
+**/[Bb]in/
+**/[Oo]bj/
+**/[Ll]og/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -244,12 +244,6 @@ ServiceFabricBackup/
 *.ldf
 *.ndf
 
-# Business Intelligence projects
-*.rdl.data
-*.bim.layout
-*.bim_*.settings
-*.rptproj.rsuser
-
 # Microsoft Fakes
 FakesAssemblies/
 
@@ -290,10 +284,6 @@ paket-files/
 
 # CodeRush
 .cr/
-
-# Python Tools for Visual Studio (PTVS)
-__pycache__/
-*.pyc
 
 # Cake - Uncomment if you are using it
 # tools/**

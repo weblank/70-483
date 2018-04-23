@@ -1,6 +1,0 @@
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingPLINQ\bin\Debug\UsingPLINQ.exe.config
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingPLINQ\bin\Debug\UsingPLINQ.exe
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingPLINQ\bin\Debug\UsingPLINQ.pdb
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingPLINQ\obj\Debug\5.UsingPLINQ.csproj.CoreCompileInputs.cache
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingPLINQ\obj\Debug\UsingPLINQ.exe
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingPLINQ\obj\Debug\UsingPLINQ.pdb

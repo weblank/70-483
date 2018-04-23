@@ -1,7 +1,0 @@
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingConcurrentCollections\obj\Debug\UsingConcurrentCollections.csprojResolveAssemblyReference.cache
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingConcurrentCollections\obj\Debug\UsingConcurrentCollections.csproj.CoreCompileInputs.cache
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingConcurrentCollections\bin\Debug\UsingConcurrentCollections.exe.config
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingConcurrentCollections\bin\Debug\UsingConcurrentCollections.exe
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingConcurrentCollections\bin\Debug\UsingConcurrentCollections.pdb
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingConcurrentCollections\obj\Debug\UsingConcurrentCollections.exe
-F:\source\repos\weblank\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingConcurrentCollections\obj\Debug\UsingConcurrentCollections.pdb

@@ -1,6 +1,0 @@
-C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingParallelClass\bin\Debug\UsingParallelClass.exe.config
-C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingParallelClass\bin\Debug\UsingParallelClass.exe
-C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingParallelClass\bin\Debug\UsingParallelClass.pdb
-C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingParallelClass\obj\Debug\3.UsingParallelClass.csproj.CoreCompileInputs.cache
-C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingParallelClass\obj\Debug\UsingParallelClass.exe
-C:\Users\chori\Source\Repos\@private\70-483\ManageProgramFlow\Weblank.ManageProgramFlow\UsingParallelClass\obj\Debug\UsingParallelClass.pdb
