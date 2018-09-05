@@ -21,7 +21,7 @@ Conto com os comentários e sugestões de vocês nas issues para melhorar o dese
 
 ## Autores
 
-* **BRown** - *Initial work* - [BRown](https://github.com/carloshenriqueribeiro)
+* **Carlinhos** - *Initial work* - [Carlinhos](https://github.com/carloshenriqueribeiro)
 
 ## Licença
 
