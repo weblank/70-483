@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.MakingDecisions", "9.Mak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.InteratingAcrossCollections", "10.InteratingAcrossCollections\10.InteratingAcrossCollections.csproj", "{C7F99383-23BB-4E8C-AC46-E3F5045325A4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CAP 2.1 - CREATE TYPES", "CAP 2.1 - CREATE TYPES", "{C140C44D-BB1E-4D57-878F-904A0D86988A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.01.ChoosingATypeToCreate", "CAP 2.1 - CREATE TYPES\2.1.01.ChoosingATypeToCreate\2.1.01.ChoosingATypeToCreate.csproj", "{B3331261-B2CA-414D-A90A-F0770678206E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,10 @@ Global
 		{C7F99383-23BB-4E8C-AC46-E3F5045325A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7F99383-23BB-4E8C-AC46-E3F5045325A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7F99383-23BB-4E8C-AC46-E3F5045325A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3331261-B2CA-414D-A90A-F0770678206E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3331261-B2CA-414D-A90A-F0770678206E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3331261-B2CA-414D-A90A-F0770678206E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3331261-B2CA-414D-A90A-F0770678206E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +98,7 @@ Global
 		{90FE4175-30BB-4364-899C-17645520AD03} = {22559719-8401-41CF-BCDE-7E662E194860}
 		{680D0123-7927-4EEF-8D63-3407759DA885} = {22559719-8401-41CF-BCDE-7E662E194860}
 		{C7F99383-23BB-4E8C-AC46-E3F5045325A4} = {22559719-8401-41CF-BCDE-7E662E194860}
+		{B3331261-B2CA-414D-A90A-F0770678206E} = {C140C44D-BB1E-4D57-878F-904A0D86988A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {54D893BE-EE64-48A9-85D7-2B61C158595A}
