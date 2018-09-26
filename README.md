@@ -19,9 +19,14 @@ Leia os detalhes de como contribuir [CONTRIBUTING.md](https://gist.github.com/Pu
 
 Conto com os comentários e sugestões de vocês nas issues para melhorar o desenvolvimento deste repositório.
 
-## Autores
+## Fundador
 
 * **Carlinhos** - *Initial work* - [Carlinhos](https://github.com/carloshenriqueribeiro)
+
+## Core Team
+
+* **Carlinhos** - *Developer* - [github](https://github.com/carloshenriqueribeiro)
+* **Lucas Barbosa** - *Developer* - [github](https://github.com/lucasbarbosa)
 
 ## Licença
 
