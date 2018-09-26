@@ -81,6 +81,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 2 - Create and use 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 1 - Manage program flow", "Chapter 1 - Manage program flow", "{BA26D477-EC48-47B0-B817-8DC03154D647}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CAP 2.1 - CREATE TYPES", "CAP 2.1 - CREATE TYPES", "{C140C44D-BB1E-4D57-878F-904A0D86988A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.01.ChoosingATypeToCreate", "CAP 2.1 - CREATE TYPES\2.1.01.ChoosingATypeToCreate\2.1.01.ChoosingATypeToCreate.csproj", "{B3331261-B2CA-414D-A90A-F0770678206E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +147,10 @@ Global
 		{0B2BEDA8-0023-4F36-9E57-22ACB1D27652}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B2BEDA8-0023-4F36-9E57-22ACB1D27652}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B2BEDA8-0023-4F36-9E57-22ACB1D27652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3331261-B2CA-414D-A90A-F0770678206E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3331261-B2CA-414D-A90A-F0770678206E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3331261-B2CA-414D-A90A-F0770678206E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3331261-B2CA-414D-A90A-F0770678206E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
