@@ -49,6 +49,14 @@
     <Compile Include="Entities\Distance.cs" />
     <Compile Include="Enumerators\Days.cs" />
     <Compile Include="Enumerators\Gender.cs" />
+    <Compile Include="Listing\MainListing2X1.cs" />
+    <Compile Include="Listing\MainListing2X2.cs" />
+    <Compile Include="Listing\MainListing2X3.cs" />
+    <Compile Include="Listing\MainListing2X4.cs" />
+    <Compile Include="Listing\MainListing2X5.cs" />
+    <Compile Include="Listing\MainListing2X6.cs" />
+    <Compile Include="Listing\MainListing2X7.cs" />
+    <Compile Include="Listing\MainListing2X8.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structs\Point.cs" />
@@ -56,5 +64,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
