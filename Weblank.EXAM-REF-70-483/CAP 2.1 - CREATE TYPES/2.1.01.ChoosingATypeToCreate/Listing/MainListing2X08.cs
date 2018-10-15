@@ -1,4 +1,4 @@
-﻿using ChoosingATypeToCreate.Entities;
+﻿using ChoosingATypeToCreate.Classes;
 using System;
 
 namespace ChoosingATypeToCreate.Listing

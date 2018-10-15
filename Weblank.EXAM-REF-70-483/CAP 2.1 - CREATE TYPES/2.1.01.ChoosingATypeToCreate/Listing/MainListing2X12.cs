@@ -4,21 +4,20 @@ using System.Collections.Generic;
 
 namespace ChoosingATypeToCreate.Listing
 {
-	public class MainListing2X10
+	public class MainListing2X12
 	{
-		// LISTING 2-10 Creating a collection such as a Deck class
-		public MainListing2X10()
+		// LISTING 2-12 Chaining constructors
+		public MainListing2X12()
 		{
 			Console.WriteLine("----------------------------------------------------------------");
-			Console.WriteLine("MainListing2X10");
+			Console.WriteLine("MainListing2X12");
 			Console.WriteLine("----------------------------------------------------------------");
 
-			List<int> myList = new List<int>() { 1, 3, 5 };
-			myList[0] = 1;
+			ConstructorChaining constructor1 = new ConstructorChaining();
+			constructor1.Print();
 
-			MyClass.MyStaticField = 43;
-
-			Console.WriteLine("MyClass.MyStaticField: "+MyClass.MyStaticField.ToString());
+			ConstructorChaining constructor2 = new ConstructorChaining(5);
+			constructor2.Print();
 
 			Console.ReadLine();
 		}

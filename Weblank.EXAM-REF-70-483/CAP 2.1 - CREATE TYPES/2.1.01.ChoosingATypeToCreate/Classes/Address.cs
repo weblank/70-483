@@ -1,4 +1,4 @@
-﻿namespace ChoosingATypeToCreate.Entities
+﻿namespace ChoosingATypeToCreate.Classes
 {
 	public class Address
 	{

@@ -82,7 +82,14 @@ namespace ChoosingATypeToCreate
 			// LISTING 2-11 Adding a constructor to your type
 			#region Listing 2.11
 
-			new MainListing2X11();
+			// new MainListing2X11();
+
+			#endregion
+
+			// LISTING 2-12 Chaining constructors
+			#region Listing 2.12
+
+			new MainListing2X12();
 
 			#endregion
 		}

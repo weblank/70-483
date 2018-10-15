@@ -43,13 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\Address.cs" />
-    <Compile Include="Entities\Calculator.cs" />
-    <Compile Include="Entities\Deck.cs" />
-    <Compile Include="Entities\Card.cs" />
-    <Compile Include="Entities\Customer.cs" />
-    <Compile Include="Entities\Distance.cs" />
-    <Compile Include="Entities\MyClass.cs" />
+    <Compile Include="Classes\Address.cs" />
+    <Compile Include="Classes\Calculator.cs" />
+    <Compile Include="Classes\ConstructorChaining.cs" />
+    <Compile Include="Classes\Deck.cs" />
+    <Compile Include="Classes\Card.cs" />
+    <Compile Include="Classes\Customer.cs" />
+    <Compile Include="Classes\Distance.cs" />
+    <Compile Include="Classes\MyClass.cs" />
     <Compile Include="Enumerators\Days.cs" />
     <Compile Include="Enumerators\Gender.cs" />
     <Compile Include="Listing\MainListing2X01.cs" />
@@ -59,6 +60,7 @@
     <Compile Include="Listing\MainListing2X05.cs" />
     <Compile Include="Listing\MainListing2X06.cs" />
     <Compile Include="Listing\MainListing2X07.cs" />
+    <Compile Include="Listing\MainListing2X12.cs" />
     <Compile Include="Listing\MainListing2X11.cs" />
     <Compile Include="Listing\MainListing2X10.cs" />
     <Compile Include="Listing\MainListing2X09.cs" />

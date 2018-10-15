@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ChoosingATypeToCreate.Entities
+namespace ChoosingATypeToCreate.Classes
 {
 	public class Deck
 	{
