@@ -3,13 +3,13 @@ using System;
 
 namespace ChoosingATypeToCreate.Listing
 {
-	public class MainListing2X1
+	public class MainListing2X01
 	{
-		// LISTING 2-1 Using the FlagAttribute for an enum
-		public MainListing2X1()
+		// LISTING 2-01 Using the FlagAttribute for an enum
+		public MainListing2X01()
 		{
 			Console.WriteLine("----------------------------------------------------------------");
-			Console.WriteLine("MainListing2X1");
+			Console.WriteLine("MainListing2X01");
 			Console.WriteLine("----------------------------------------------------------------");
 
 			Days readingDays = Days.Monday | Days.Saturday;

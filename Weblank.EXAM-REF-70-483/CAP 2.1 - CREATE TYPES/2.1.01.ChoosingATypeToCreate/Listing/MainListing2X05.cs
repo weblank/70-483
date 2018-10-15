@@ -3,17 +3,17 @@ using System;
 
 namespace ChoosingATypeToCreate.Listing
 {
-	public class MainListing2X8
+	public class MainListing2X05
 	{
-		// LISTING 2-8 Returning data from a method
-		public MainListing2X8()
+		// LISTING 2-05 Passing a complete customer to a method
+		public MainListing2X05()
 		{
 			Console.WriteLine("----------------------------------------------------------------");
-			Console.WriteLine("MainListing2X8");
+			Console.WriteLine("MainListing2X05");
 			Console.WriteLine("----------------------------------------------------------------");
 
 			Calculator C = new Calculator();
-			C.MyMethod(1, thirdArgument: true);
+			Distance D = C.CalculateDistanceTo(new Customer());
 
 			Console.ReadLine();
 		}
