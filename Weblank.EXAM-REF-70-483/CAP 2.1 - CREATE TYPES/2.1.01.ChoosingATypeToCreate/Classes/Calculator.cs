@@ -34,5 +34,10 @@
 		{
 			return 42;
 		}
+
+		public decimal CalculateDiscount(Product p)
+		{
+			return p.Discount();
+		}
 	}
 }

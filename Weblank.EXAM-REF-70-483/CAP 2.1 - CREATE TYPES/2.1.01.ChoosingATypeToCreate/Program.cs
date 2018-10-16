@@ -96,7 +96,42 @@ namespace ChoosingATypeToCreate
 			// LISTING 2-13 Generic Nullable<T> implementation
 			#region Listing 2.13
 
-			new MainListing2X13();
+			// new MainListing2X13();
+
+			#endregion
+
+			// LISTING 2-14 Using a where clause on a class definition
+			#region Listing 2.14
+
+			// new MainListing2X14();
+
+			#endregion
+
+			// LISTING 2-15 Using default(T) with a generic type parameter
+			#region Listing 2.15
+
+			// new MainListing2X15();
+
+			#endregion
+
+			// LISTING 2-16 Creating an extension method
+			#region Listing 2.16
+
+			// new MainListing2X16();
+
+			#endregion
+
+			// LISTING 2-17 Overriding a virtual method
+			#region Listing 2.17
+
+			// new MainListing2X17();
+
+			#endregion
+
+			// LISTING 2-18 Using the sealed keyword on a method
+			#region Listing 2.18
+
+			// new MainListing2X18();
 
 			#endregion
 		}

@@ -44,13 +44,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Address.cs" />
+    <Compile Include="Classes\Base.cs" />
     <Compile Include="Classes\Calculator.cs" />
     <Compile Include="Classes\ConstructorChaining.cs" />
     <Compile Include="Classes\Deck.cs" />
     <Compile Include="Classes\Card.cs" />
     <Compile Include="Classes\Customer.cs" />
+    <Compile Include="Classes\Derived3.cs" />
+    <Compile Include="Classes\Derived2.cs" />
+    <Compile Include="Classes\Derived.cs" />
     <Compile Include="Classes\Distance.cs" />
     <Compile Include="Classes\MyClass.cs" />
+    <Compile Include="Classes\MyClassT.cs" />
+    <Compile Include="Classes\MyExtensions.cs" />
+    <Compile Include="Classes\Product.cs" />
     <Compile Include="Enumerators\Days.cs" />
     <Compile Include="Enumerators\Gender.cs" />
     <Compile Include="Listing\MainListing2X01.cs" />
@@ -60,6 +67,11 @@
     <Compile Include="Listing\MainListing2X05.cs" />
     <Compile Include="Listing\MainListing2X06.cs" />
     <Compile Include="Listing\MainListing2X07.cs" />
+    <Compile Include="Listing\MainListing2X18.cs" />
+    <Compile Include="Listing\MainListing2X17.cs" />
+    <Compile Include="Listing\MainListing2X16.cs" />
+    <Compile Include="Listing\MainListing2X15.cs" />
+    <Compile Include="Listing\MainListing2X14.cs" />
     <Compile Include="Listing\MainListing2X13.cs" />
     <Compile Include="Listing\MainListing2X12.cs" />
     <Compile Include="Listing\MainListing2X11.cs" />
