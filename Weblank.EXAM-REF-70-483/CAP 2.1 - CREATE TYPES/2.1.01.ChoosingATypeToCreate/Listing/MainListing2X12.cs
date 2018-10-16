@@ -1,6 +1,5 @@
 ﻿using ChoosingATypeToCreate.Classes;
 using System;
-using System.Collections.Generic;
 
 namespace ChoosingATypeToCreate.Listing
 {

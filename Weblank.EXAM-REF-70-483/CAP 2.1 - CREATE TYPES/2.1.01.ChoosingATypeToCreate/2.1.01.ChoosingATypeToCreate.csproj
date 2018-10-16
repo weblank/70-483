@@ -60,6 +60,7 @@
     <Compile Include="Listing\MainListing2X05.cs" />
     <Compile Include="Listing\MainListing2X06.cs" />
     <Compile Include="Listing\MainListing2X07.cs" />
+    <Compile Include="Listing\MainListing2X13.cs" />
     <Compile Include="Listing\MainListing2X12.cs" />
     <Compile Include="Listing\MainListing2X11.cs" />
     <Compile Include="Listing\MainListing2X10.cs" />
@@ -67,6 +68,7 @@
     <Compile Include="Listing\MainListing2X08.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Structs\Nullable.cs" />
     <Compile Include="Structs\Point.cs" />
   </ItemGroup>
   <ItemGroup>
