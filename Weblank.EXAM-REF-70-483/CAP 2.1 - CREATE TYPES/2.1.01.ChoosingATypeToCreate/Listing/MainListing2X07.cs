@@ -1,19 +1,19 @@
-﻿using ChoosingATypeToCreate.Entities;
+﻿using ChoosingATypeToCreate.Classes;
 using System;
 
 namespace ChoosingATypeToCreate.Listing
 {
-	public class MainListing2X6
+	public class MainListing2X07
 	{
-		// LISTING 2-6 Passing only an address to a method
-		public MainListing2X6()
+		// LISTING 2-07 Using named and optional arguments
+		public MainListing2X07()
 		{
 			Console.WriteLine("----------------------------------------------------------------");
-			Console.WriteLine("MainListing2X6");
+			Console.WriteLine("MainListing2X07");
 			Console.WriteLine("----------------------------------------------------------------");
 
 			Calculator C = new Calculator();
-			Distance D = C.CalculateDistanceTo(new Address());
+			C.MyMethod(1, thirdArgument: true);
 
 			Console.ReadLine();
 		}
