@@ -1,4 +1,4 @@
-﻿namespace ChoosingATypeToCreate.Entities
+﻿namespace ChoosingATypeToCreate.Classes
 {
 	public class Calculator
 	{
@@ -33,6 +33,11 @@
 		public int MethodWithReturnValue()
 		{
 			return 42;
+		}
+
+		public decimal CalculateDiscount(Product p)
+		{
+			return p.Discount();
 		}
 	}
 }
