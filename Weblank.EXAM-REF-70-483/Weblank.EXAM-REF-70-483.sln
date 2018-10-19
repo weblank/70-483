@@ -91,17 +91,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1.02.UsingParse-TryParse-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1.03.UsingRegularExpressions", "CAP 3.1 - VALIDATE APPLICATION INPUT\3.1.03.UsingRegularExpressions\3.1.03.UsingRegularExpressions.csproj", "{F6095044-79AE-4819-95E2-0B7C2E4D7423}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.01.UsingSymmetric-and-Asymmetric-Encryption", "CAP 3.1 - VALIDATE APPLICATION INPUT\3.2.01.UsingSymmetric-and-Asymmetric-Encryption\3.2.01.UsingSymmetric-and-Asymmetric-Encryption.csproj", "{1B8950C6-FDFE-4965-830E-809AE92BB487}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1.04.ValidatingJsonAndXml", "CAP 3.1 - VALIDATE APPLICATION INPUT\3.1.04.ValidatingJsonAndXml\3.1.04.ValidatingJsonAndXml.csproj", "{56D00647-B0CD-4191-BF94-CC37725BDB26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.02.Working-with-Encryption-in-the-DotNetFramework", "CAP 3.1 - VALIDATE APPLICATION INPUT\3.2.02.Working-with-Encryption-in-the-DotNetFramework\3.2.02.Working-with-Encryption-in-the-DotNetFramework.csproj", "{FD33C0D5-6FBA-425B-BC31-D49455F2EB22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.01.UsingSymmetric-and-Asymmetric-Encryption", "CAP 3.2 - PERFORM SYMMETRIC AND ASYMMETRIC ENCRYPTION\3.2.01.UsingSymmetric-and-Asymmetric-Encryption\3.2.01.UsingSymmetric-and-Asymmetric-Encryption.csproj", "{1B8950C6-FDFE-4965-830E-809AE92BB487}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.03.Using-Hashing", "CAP 3.1 - VALIDATE APPLICATION INPUT\3.2.03.Using-Hashing\3.2.03.Using-Hashing.csproj", "{341C5265-0CD3-4326-B837-749FC75B1646}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.02.Working-with-Encryption-in-the-DotNetFramework", "CAP 3.2 - PERFORM SYMMETRIC AND ASYMMETRIC ENCRYPTION\3.2.02.Working-with-Encryption-in-the-DotNetFramework\3.2.02.Working-with-Encryption-in-the-DotNetFramework.csproj", "{FD33C0D5-6FBA-425B-BC31-D49455F2EB22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.04.Managing-and-Creating-Certificates", "CAP 3.1 - VALIDATE APPLICATION INPUT\3.2.04.Managing-and-Creating-Certificates\3.2.04.Managing-and-Creating-Certificates.csproj", "{CCB7C293-CFEF-4740-9387-6C688B3236F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.03.Using-Hashing", "CAP 3.2 - PERFORM SYMMETRIC AND ASYMMETRIC ENCRYPTION\3.2.03.Using-Hashing\3.2.03.Using-Hashing.csproj", "{341C5265-0CD3-4326-B837-749FC75B1646}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.05.Using-Code-Access-Permissions", "CAP 3.1 - VALIDATE APPLICATION INPUT\3.2.05.Using-Code-Access-Permissions\3.2.05.Using-Code-Access-Permissions.csproj", "{5B314422-F39F-499C-BB7B-6517CDA648C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.04.Managing-and-Creating-Certificates", "CAP 3.2 - PERFORM SYMMETRIC AND ASYMMETRIC ENCRYPTION\3.2.04.Managing-and-Creating-Certificates\3.2.04.Managing-and-Creating-Certificates.csproj", "{CCB7C293-CFEF-4740-9387-6C688B3236F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.06.Securing-String-Data", "CAP 3.1 - VALIDATE APPLICATION INPUT\3.2.06.Securing-String-Data\3.2.06.Securing-String-Data.csproj", "{AAE7E2EB-D860-490B-AEB6-8203773404C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.05.Using-Code-Access-Permissions", "CAP 3.2 - PERFORM SYMMETRIC AND ASYMMETRIC ENCRYPTION\3.2.05.Using-Code-Access-Permissions\3.2.05.Using-Code-Access-Permissions.csproj", "{5B314422-F39F-499C-BB7B-6517CDA648C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.06.Securing-String-Data", "CAP 3.2 - PERFORM SYMMETRIC AND ASYMMETRIC ENCRYPTION\3.2.06.Securing-String-Data\3.2.06.Securing-String-Data.csproj", "{AAE7E2EB-D860-490B-AEB6-8203773404C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -181,6 +183,10 @@ Global
 		{F6095044-79AE-4819-95E2-0B7C2E4D7423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6095044-79AE-4819-95E2-0B7C2E4D7423}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6095044-79AE-4819-95E2-0B7C2E4D7423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D00647-B0CD-4191-BF94-CC37725BDB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D00647-B0CD-4191-BF94-CC37725BDB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D00647-B0CD-4191-BF94-CC37725BDB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D00647-B0CD-4191-BF94-CC37725BDB26}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1B8950C6-FDFE-4965-830E-809AE92BB487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1B8950C6-FDFE-4965-830E-809AE92BB487}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B8950C6-FDFE-4965-830E-809AE92BB487}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -250,6 +256,7 @@ Global
 		{01CA5E72-F17D-4DC2-94A7-7F6B5CD4AC8F} = {0D0AB222-F05E-4B6B-BB78-1457121D348F}
 		{2D85950C-8CF3-4FAA-9B8D-0434F860D821} = {0D0AB222-F05E-4B6B-BB78-1457121D348F}
 		{F6095044-79AE-4819-95E2-0B7C2E4D7423} = {0D0AB222-F05E-4B6B-BB78-1457121D348F}
+		{56D00647-B0CD-4191-BF94-CC37725BDB26} = {0D0AB222-F05E-4B6B-BB78-1457121D348F}
 		{1B8950C6-FDFE-4965-830E-809AE92BB487} = {0A745B28-46AF-48E4-9F2B-DF8617052FEC}
 		{FD33C0D5-6FBA-425B-BC31-D49455F2EB22} = {0A745B28-46AF-48E4-9F2B-DF8617052FEC}
 		{341C5265-0CD3-4326-B837-749FC75B1646} = {0A745B28-46AF-48E4-9F2B-DF8617052FEC}
