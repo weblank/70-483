@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _12.UsingLambdaExpressions
+﻿namespace _12.UsingLambdaExpressions
 {
     class Program
     {

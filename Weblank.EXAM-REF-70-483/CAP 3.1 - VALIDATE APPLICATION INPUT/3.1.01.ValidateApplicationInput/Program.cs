@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-// LISTING 3-1 VALIDATE APPLICATION INPUT
+﻿// LISTING 3-1 VALIDATE APPLICATION INPUT
 namespace _3._1._01.ValidateApplicationInput
 {
     class Program

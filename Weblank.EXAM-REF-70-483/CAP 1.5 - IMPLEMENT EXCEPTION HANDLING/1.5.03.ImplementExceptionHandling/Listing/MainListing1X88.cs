@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
-
-namespace _1._5._03.ImplementExceptionHandling
+﻿namespace _1._5._03.ImplementExceptionHandling
 {
     //  Parsing an invalid number
     public class MainListing1X88

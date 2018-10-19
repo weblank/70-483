@@ -1,10 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Data.Entity;
-using System.IO;
-using System.Threading;
-using System.Threading.Tasks;
 
 namespace _3._1._01.ValidateApplicationInput
 {

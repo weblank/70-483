@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Threading.Tasks;
 
 namespace _11.UnderstandingDelegates
 {
-    
+
     public class MainListing1X76
     {
         public delegate void Del();

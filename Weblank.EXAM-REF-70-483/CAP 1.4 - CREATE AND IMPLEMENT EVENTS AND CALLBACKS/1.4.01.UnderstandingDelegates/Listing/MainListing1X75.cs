@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Threading.Tasks;
 
 namespace _11.UnderstandingDelegates
 {
-    
+
     public class MainListing1X75
     {
         public delegate int Calculate(int x, int y);
