@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using _9.MakingDecisions.Listing;
-
-namespace _9.MakingDecisions
+﻿namespace _9.MakingDecisions
 {
     class Program
     {

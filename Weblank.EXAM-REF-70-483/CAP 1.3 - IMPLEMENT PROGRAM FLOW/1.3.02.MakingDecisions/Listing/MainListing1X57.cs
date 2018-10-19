@@ -1,8 +1,4 @@
-﻿using System;
-using System.Threading;
-using System.Threading.Tasks;
-
-namespace _9.MakingDecisions.Listing
+﻿namespace _9.MakingDecisions.Listing
 {
     public class MainListing1X57
     {

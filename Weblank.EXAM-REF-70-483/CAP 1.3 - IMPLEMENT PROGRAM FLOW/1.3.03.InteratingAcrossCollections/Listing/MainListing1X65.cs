@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Threading.Tasks;
 
 namespace _10.InteratingAcrossCollections
 {
-    
+
     public class MainListing1X65
     {
         // A for loop with multiple loop variables
