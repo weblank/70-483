@@ -12,13 +12,6 @@ namespace ChoosingATypeToCreate.Listing
 			Console.WriteLine("MainListing2X18");
 			Console.WriteLine("----------------------------------------------------------------");
 
-			/*
-			Derived derived = new Derived();
-			derived.MyMethod().ToString();
-
-			Console.WriteLine("Derived.MyMethod: " + derived.MyMethod().ToString());
-			*/
-
 			Console.ReadLine();
 		}
 	}
